@@ -17,11 +17,11 @@ To use PrayerTime on your mobile device, follow these steps:
 1. Download and install the Expo Go app from the App Store (iOS) or Google Play Store (Android).
 2. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/maxelbo/prayertime.git
    ```
 3. Navigate to the project directory:
    ```bash
-   cd PrayerTime
+   cd prayertime
    ```
 4. Install the required dependencies:
    ```bash
